@@ -6,5 +6,5 @@ Script to guess as much citys as possible in https://iafisher.com/projects/citie
 
 This project uses cartesian product to find all the possible combinations of characters with given length, for example
 
-Length of 3
-$aaa, aab, aac ... aba ... baa ... zzz$
+Length of 3 \n
+aaa, aab, aac ... aba ... baa ... zzz
