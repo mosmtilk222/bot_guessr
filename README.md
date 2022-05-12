@@ -26,7 +26,7 @@ To "ignore" words without vowels and save a lot of iterations, this code snippet
 
 ---
 
-## Important 
+## Important ⚠
 Due the complexity of the algorithm and how fast it scales in terms of memory and iterations it could cause performance issues
 
 ---
