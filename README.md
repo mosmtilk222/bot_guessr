@@ -22,4 +22,7 @@ Then realized a lot of combinations had just consonants, then I added this:
 
 ![image](https://user-images.githubusercontent.com/53209906/167966366-1c80d07b-1097-4482-b102-5b6ebd1af58c.png)
 
-To "ignore" words without vowels
+To "ignore" words without vowels and save a lot of iterations, important to say that this code snippet gets worse when the length of the word is larger, but at the beginning when the length is 3 for example, it almost halve the possibilitys
+
+Then I use **selenium** to enter the page and submit the answers
+
