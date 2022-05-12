@@ -24,8 +24,16 @@ Then realized a lot of combinations had just consonants, then I added this:
 
 To "ignore" words without vowels and save a lot of iterations, this code snippet gets worse when the length of the word is larger, but at the beginning when the length is 3 for example, it almost halve the possibilitys
 
+---
+
 ## Important 
 Due the complexity of the algorithm and how fast it scales in terms of memory and iterations it could cause performance issues
 
+---
+
 Then I use **selenium** to enter the page and submit the answers
+
+# Results
+
+I tested it once and performed better than I thought, **in a few hours guessed almost 2000 citys** all over the world
 
